@@ -1,0 +1,21 @@
+{
+  "name": "tns-template-blank-ng2-ts",
+  "main": "main.js",
+  "version": "2.1.0",
+  "author": "Telerik <support@telerik.com>",
+  "description": "Nativescript blank-ng2-ts project template",
+  "license": "BSD",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "nativescript",
+    "{N}",
+    "angular",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "repository": {
+    "url": "https://github.com/NativeScript/NativeScript/commit/f201465fb38f23772110776168a99aaf8c223ac8"
+  }
+}
