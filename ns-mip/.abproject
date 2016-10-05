@@ -12,10 +12,18 @@
     "1",
     "2"
   ],
-  "iOSBackgroundMode": [],
+  "iOSBackgroundMode": [
+    "bluetooth-central",
+    "bluetooth-peripheral"
+  ],
   "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
   "AndroidPermissions": [
-    "android.permission.INTERNET"
+    "android.permission.BLUETOOTH",
+    "android.permission.BLUETOOTH_ADMIN",
+    "android.permission.BLUETOOTH_PRIVILEGED",
+    "android.permission.INTERNET",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE"
   ],
   "DeviceOrientations": [
     "Portrait",
