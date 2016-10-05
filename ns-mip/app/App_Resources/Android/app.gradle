@@ -4,12 +4,3 @@
 //dependencies {
 //	compile 'com.android.support:recyclerview-v7:+'
 //}
-
-android {  
-  defaultConfig {  
-    generatedDensities = []
-  }  
-  aaptOptions {  
-    additionalParameters "--no-version-vectors"  
-  }  
-} 

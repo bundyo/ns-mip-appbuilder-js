@@ -25,6 +25,8 @@
     "nativescript-accelerometer": "^0.3.2",
     "nativescript-angular": "1.0.0",
     "nativescript-bluetooth": "^1.1.2",
+    "nativescript-joystick": "^0.4.2",
+    "nativescript-telerik-ui": "^1.4.0",
     "reflect-metadata": "^0.1.8",
     "tns-core-modules": "2.3.0",
     "tns-core-modules-widgets": "2.3.0"
